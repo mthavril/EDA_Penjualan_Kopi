@@ -25,5 +25,5 @@ Dataset diambil dari sumber publik **Kaggle** dan telah disesuaikan untuk keperl
 - Matplotlib
 
   ## Penulis
-  **Nama :** Muthia Mutmainah Aprinelia
-  **Platform:** Google Colab → GitHub  
+  - **Nama :** Muthia Mutmainah Aprinelia
+  - **Platform:** Google Colab → GitHub  
