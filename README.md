@@ -10,3 +10,10 @@ Proyek ini bertujuan untuk menganalisis tren penjualan kopi selama tahun **2024-
 2. Menemukan produk kopi paling laris dan kontribusinya terhadap total penjualan.
 3. Menganalisis metode pembayaran yang paling sering digunakan pelanggan.
 4. Membandingkan tren penjualan antara tahun 2024 dan 2025.
+
+## Dataset
+Dataset diambil dari sumber publik **Kaggle** dan telah disesuaikan untuk keperluan eksplorasi data. 
+- sumber - Coffee Sales Dataset - Kaggle (https://www.kaggle.com/datasets/ihelon/coffee-sales)
+
+  ## Buka di Google Colab
+  
