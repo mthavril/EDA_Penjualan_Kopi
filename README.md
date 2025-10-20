@@ -15,5 +15,15 @@ Proyek ini bertujuan untuk menganalisis tren penjualan kopi selama tahun **2024-
 Dataset diambil dari sumber publik **Kaggle** dan telah disesuaikan untuk keperluan eksplorasi data. 
 - sumber - Coffee Sales Dataset - Kaggle (https://www.kaggle.com/datasets/ihelon/coffee-sales)
 
-  ## Buka di Google Colab
-  
+## Buka di Google Colab
+(https://github.com/mthavril/EDA_Penjualan_Kopi/blob/main/EDA_Penjualan_Kopi.ipynb)
+
+## Teknologi yang Digunakan
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+
+  ## Penulis
+  **Nama :** Muthia Mutmainah Aprinelia
+  **Platform:** Google Colab → GitHub  
