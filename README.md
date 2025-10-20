@@ -1,16 +1,12 @@
 # EDA Penjualan Kopi 2024-2025
-# Proyek ini bertujuan menganalisis tren penjualan kopi selama 2024–2025 untuk memahami perilaku pelanggan
 
-## Dataset
-- Sumber :Coffee Sales Dataset - Kaggle (https://www.kaggle.com/datasets/ihelon/coffee-sales)
-- Periode : 2024 - 2025
+## Deskripsi Proyek
+Proyek ini bertujuan untuk menganalisis tren penjualan kopi selama tahun **2024-2025** guna memahami ""pola pembelian pelanggan**, **produk terlaris**. **metode pembayaran dominan**, serta **perbandingan performa penjualan antar tahun**, Analisis ini menggunakan pendekatan **Exploratory Data Analysis (EDA)** untuk menemukan insight yang berguna bagi strategi bisnis dan pengambilan keputusan.
 
-## Tools
-- Python
-- Pandas, Numpy
-- Matplotlib, Seaborn
-- Google Colab
+---
 
-
-  ## Cara Menjalankan
-  1. Buka file
+## Tujuan Analisis 
+1. Mengidentifikasi pola penjualan berdasarkan waktu (bulan dan tahun).
+2. Menemukan produk kopi paling laris dan kontribusinya terhadap total penjualan.
+3. Menganalisis metode pembayaran yang paling sering digunakan pelanggan.
+4. Membandingkan tren penjualan antara tahun 2024 dan 2025.
